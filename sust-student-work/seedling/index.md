@@ -16,12 +16,16 @@ tags:
     - campus
 ---
 
+
+
 # A Seedling Essay - Monic
 This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
 
 **What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+
+Fred Koster has moved away in Nov 2025
 
 
 ## Your First Section Heading
