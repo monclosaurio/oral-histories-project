@@ -26,7 +26,7 @@ This essay demonstrates the **simplest ScrollStory approach**—perfect if you'r
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 Fred Koster has moved away in Nov 2025.
-
+image-path="37f9b34fdf59eb16df5312562272955c.jpg" 
 
 ## Your First Section Heading
 {% include images/figure.html
